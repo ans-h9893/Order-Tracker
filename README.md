@@ -58,7 +58,7 @@ It enables users to:
 ## ⚙️ How to Run
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ans-h9893/Order-Tracker.git
    
 2. Open the project in Visual Studio.
 3. Update the connection string in App.config to match your SQL Server database.
