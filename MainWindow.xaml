@@ -1,0 +1,29 @@
+﻿<Window x:Class="OrderTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrderTracker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <StackPanel Orientation="Vertical">
+            <TextBlock FontSize="16" FontWeight="Bold" Text="Select Customer:" />
+            <ComboBox x:Name="customerComboBox" Width="300" Margin="0,5,0,10" SelectionChanged="customerComboBox_SelectionChanged"/>
+
+            <TextBlock FontSize="16" FontWeight="Bold" Text="Orders:" />
+            <DataGrid x:Name="ordersDataGrid" AutoGenerateColumns="True" Height="150" Margin="0,5,0,10" SelectionChanged="ordersDataGrid_SelectionChanged"/>
+
+            <TextBlock FontSize="16" FontWeight="Bold" Text="Order Details:" />
+            <DataGrid x:Name="orderDetailsDataGrid" AutoGenerateColumns="True" Height="150" Margin="0,5,0,10"/>
+
+            <TextBlock FontSize="16" FontWeight="Bold" Text="Total Amount:" />
+            <TextBlock x:Name="totalTextBlock" FontSize="16" Foreground="DarkGreen" />
+            <StackPanel Orientation="Horizontal" Margin="10,0,0,0" Width="544">
+                <Button x:Name="AddNewOrder_Btn" Content="Add New Order" Width="120" Click="btnAddOrder_Click"/>
+                <Button x:Name="DeleteSelectedOrder_Btn" Content="Delete Selected Order" Margin="40,0,0,0" Width="160" Click="btnDeleteOrder_Click"/>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

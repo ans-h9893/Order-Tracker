@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:orderlineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\addneworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:addneworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\addneworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:addneworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|c:\\users\\anshh\\onedrive\\sheridan college\\sem 4\\c#\\workspace\\ordertracker\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D845F44-2B77-4EF6-9FD9-ACE2BFE8FF40}|OrderTracker.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:08:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\OrderLineItem.cs",
+              "RelativeDocumentMoniker": "OrderLineItem.cs",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\OrderLineItem.cs",
+              "RelativeToolTip": "OrderLineItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:07:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:04:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\AddNewOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddNewOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\AddNewOrderWindow.xaml.cs",
+              "RelativeToolTip": "AddNewOrderWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:03:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNewOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\AddNewOrderWindow.xaml",
+              "RelativeDocumentMoniker": "AddNewOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\AddNewOrderWindow.xaml",
+              "RelativeToolTip": "AddNewOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T03:01:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T02:57:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:57:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\anshh\\OneDrive\\Sheridan College\\Sem 4\\C#\\Workspace\\OrderTracker\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-10T03:00:22.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
