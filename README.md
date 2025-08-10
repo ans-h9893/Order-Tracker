@@ -50,9 +50,9 @@ It enables users to:
 ## 📸 Screenshot Gallery
 
 <p float="left">
-  <img src="screenshots/main-window.png" />
-  <img src="screenshots/addOrder-window.png" />
-  <img src="screenshots/orderAdded-window.png" />
+  <img src="Screenshots/main-window.png" />
+  <img src="Screenshots/addOrder-window.png" />
+  <img src="Screenshots/orderAdded-window.png" />
 </p>
 
 ## ⚙️ How to Run
